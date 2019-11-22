@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/aturner-SSE/InteractiveMap
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<style>.embed-container {position: relative; padding-bottom: 100%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="600" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Interactive Test Map" src="//sschwartz.maps.arcgis.com/apps/Embed/index.html?webmap=e8a60286df234f2d864ac7cbc4ebeede&extent=-77.0256,38.8661,-76.9859,38.8845&zoom=true&previewImage=true&scale=true&details=true&legend=true&active_panel=details&disable_scroll=true&theme=light"></iframe></div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -20,6 +22,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
