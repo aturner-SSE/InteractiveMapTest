@@ -15,13 +15,13 @@ Syntax highlighted code block
 ## World Series Street Restrictions
 ### Header 3
 
-- Emergency No Parking
-- Street Closures
+_- Emergency No Parking
+- Street Closures_
 
 1. Numbered
 2. List
 
-**Mapping Test**
+**Test**
 
 **Bold** and _Italic_ and `Code` text
 
